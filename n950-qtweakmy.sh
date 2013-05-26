@@ -13,9 +13,9 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N9 QTweak v9.7.5
+# N950 QTweak v9.7.5
     echo " ---------------------------------------------"
-    echo -e "|           ${CYAN}N9 QuickTweak changelog${NORMAL}           |"
+    echo -e "|          ${CYAN}N950 QuickTweak changelog${NORMAL}          |"
     echo " ---------------------------------------------"
     echo -en ${YELLOW}
     echo -e "* Tweak CC - updated option 3. Needed files moved from OBS to my dropbox and sripts updated. Also changed pasword for OpenVpn."
