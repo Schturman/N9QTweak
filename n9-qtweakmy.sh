@@ -13,15 +13,16 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N9 QTweak v9.7.5
+# N9 QTweak v9.7.6
     echo " ---------------------------------------------"
     echo -e "|           ${CYAN}N9 QuickTweak changelog${NORMAL}           |"
     echo " ---------------------------------------------"
     echo -en ${YELLOW}
-    echo -e "* Tweak CC - updated option 3. Needed files moved from OBS to my dropbox and sripts updated. Also changed pasword for OpenVpn."
-    echo -e "* Tweak UU & Auto version checker - updated. Script moved from OBS to GitHub."
-    echo -e "* Tweak W - updated option 12, small update for restoring original icons."
-    echo -e "${RED}* UPDATE (08.06.13)${YELLOW} - updated auto-background & full refresh scripts. Now auto-background changer will check if your phone busy (call/installation/GPS), and if yes, it will NOT change your background."
+    echo -e "* PDF instruction - updated."
+    echo -e "* RESTORE file - updated."
+    echo -e "* Tweak CC - updated option 3. Sripts updated. Also changed pasword for OpenVpn."
+    echo -e "* Tweak KK - updated. Added m4a-ogg-flv support (read PDF instruction)."
+    echo -e "* Refresh button - added option to refresh network connection."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
 if [ ! -f /opt/N9QTweak/Autowall/auto-back1.sh ]; then
