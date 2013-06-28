@@ -13,16 +13,20 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N950 QTweak v9.7.6
+# N950 QTweak v9.7.7
     echo " ---------------------------------------------"
     echo -e "|          ${CYAN}N950 QuickTweak changelog${NORMAL}          |"
     echo " ---------------------------------------------"
     echo -en ${YELLOW}
     echo -e "* PDF instruction - updated."
     echo -e "* RESTORE file - updated."
-    echo -e "* Tweak CC - updated option 3. Sripts updated. Also changed pasword for OpenVpn."
-    echo -e "* Tweak KK - updated. Added m4a-ogg-flv support (read PDF instruction)."
-    echo -e "* Refresh button - added option to refresh network connection."
+    echo -e "* Tweak Z - updated."
+    echo -e "* Tweak RR - small changes."
+    echo -e "* Tweak EE - updated. Added option to restore origin to com.nokia.maemo and install/uninstall PowerPack (read PDF instruction)."
+    echo -e "* Tweak II - updated RZR repo."
+    echo -e "* Tweak O - updated option 3. Now it save suffix as .deb automatically. Just reapply this tweak (thanks to Coderus)."
+    echo -e "* Tweak NN - updated option 1. Added support for Italian UI."
+    echo -e "* Tweak KK - updated. Added option to install/uninstall Busybox-power (read PDF instruction)."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
 if [ ! -f /opt/N950QTweak/Autowall/auto-back1.sh ]; then
