@@ -13,14 +13,16 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N9 QTweak v9.8.0
+# N9 QTweak v9.8.1
     echo " ---------------------------------------------"
     echo -e "|           ${CYAN}N9 QuickTweak changelog${NORMAL}           |"
     echo " ---------------------------------------------"
     echo -en ${YELLOW}
     echo -e "* PDF instruction - updated."
     echo -e "* RESTORE file - updated."
-    echo -e "* Tweak - Almost all tweaks updated, Inception removed and instead this added Coderus aegis-install & opensudo. Check tweak EE."
+    echo -e "* Tweak Z - updated."
+    echo -e "* Tweak CC - updated, added wifi 5GHz support (read PDF instruction)."
+    echo -e "* Tweak F - updated, added changing number of notification on LPS & lockscreen."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
     echo ""
