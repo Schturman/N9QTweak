@@ -13,7 +13,7 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N950 QTweak v9.8.1
+# N950 QTweak v9.8.2
     echo " ---------------------------------------------"
     echo -e "|          ${CYAN}N950 QuickTweak changelog${NORMAL}          |"
     echo " ---------------------------------------------"
@@ -21,8 +21,10 @@ BGRED='\033[41m'
     echo -e "* PDF instruction - updated."
     echo -e "* RESTORE file - updated."
     echo -e "* Tweak Z - updated."
-    echo -e "* Tweak CC - updated, added wifi 5GHz support (read PDF instruction)."
-    echo -e "* Tweak F - updated, added changing number of notification on LPS & lockscreen."
+    echo -e "* Tweak KK - updated, added GIF association to browser (read PDF instruction)."
+    echo -e "* Tweak QQ - updated, completely changed. Now it more safest tweak (thanks to Coderus)."
+    echo -e "* Tweak AA - removed."
+    echo -e "* Bash package - updated to new Coderus version."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
     echo ""
