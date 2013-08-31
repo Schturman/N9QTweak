@@ -13,20 +13,14 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N950 QTweak v9.8.4
+# N950 QTweak v9.8.5
     echo " ---------------------------------------------"
     echo -e "|          ${CYAN}N950 QuickTweak changelog${NORMAL}          |"
     echo " ---------------------------------------------"
     echo -en ${YELLOW}
     echo -e "* PDF instaruction - updated."
-    echo -e "* RESTORE file - updated."
-    echo -e "* Tweak Z - updated."
-    echo -e "* Tweak EE - updated, unstable FasterN9 (1.1.7)."
-    echo -e "* Tweak II - updated, added Schturman repo."
-    echo -e "* Tweak X - updated, added DEB packages creator."
-    echo -e "* Tweak KK - updated option 2 (thanks to Craig_Mabbitt)."
-    echo -e "* Tweak UU - updated, now can use my repo if installed."
-    echo -e "* Auto-checker - updated, now can use my repo if installed."
+    echo -e "* Tweak X - updated DEB packages creator."
+    echo -e "* Tweak T - updated option 3 (thanks to Coderus). New sys-ui and unrestricted setting."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
     echo ""
