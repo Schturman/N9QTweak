@@ -13,7 +13,7 @@ BLINK='\033[5m'
 GRAY='\033[1;37m'
 BGRED='\033[41m'
 
-# N9 QTweak v9.8.7
+# N9 QTweak v9.8.8
     echo " ---------------------------------------------"
     echo -e "|           ${CYAN}N9 QuickTweak changelog${NORMAL}           |"
     echo " ---------------------------------------------"
@@ -21,10 +21,7 @@ BGRED='\033[41m'
     echo -e "* PDF instaruction - updated."
     echo -e "* RESTORE file - updated."
     echo -e "* Tweaks Z - updated."
-    echo -e "* Tweaks HH-3 - updated Debinstaller to v1.0.3."
-    echo -e "* Tweaks X-2 - updated Deb packages creator to v0.1.7."
-    echo -e "* Tweak KK - updated, added Image converter (see PDF instruction)."
-    echo -e "* Tweak F - updated, added option to disable LED breathing notification for battery charging (see PDF instruction)."
+    echo -e "* Tweaks R - updated, added option to add/remove new emoticons themes (see PDF instruction)."
     echo -en ${NORMAL}
     echo " ---------------------------------------------"
     echo ""
